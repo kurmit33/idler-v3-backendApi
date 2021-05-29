@@ -21,7 +21,7 @@
       "reflect-metadata": "^0.1.13",
       "typeorm": "^0.2.20",
       "typescript-rest": "^2.2.2",
-      "ws": "^7.2.0"
+      "ws": "^7.4.6"
    },
    "scripts": {
       "start": "ts-node src/index.ts"
